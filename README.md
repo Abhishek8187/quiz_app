@@ -1,16 +1,4 @@
-# quizzler
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a quiz app where different questions will pop up. 
+You have to select from true or false and result will come at the bottom of your screen
+In this project uses of classes and objects is demonstrated![Screenshot (151)](https://user-images.githubusercontent.com/72517135/185731725-ff4c33c7-8c86-4969-84f9-7989321062d4.png)
+![Screenshot (152)](https://user-images.githubusercontent.com/72517135/185731726-8bae29fd-5a66-45fe-a28a-b0cc15ea372c.png)
